@@ -2,3 +2,5 @@
 Este es un repositorio de la UVEG
 
 Mi nombre es Gerardo Zapien Cruz
+
+Esta es una práctica de la UVEG.
